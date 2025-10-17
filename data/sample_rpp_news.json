@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Economía peruana creció 2.5% en el último trimestre",
+    "description": "El Banco Central de Reserva informó que el sector construcción y manufactura lideraron el crecimiento económico del país durante el último trimestre del año.",
+    "link": "https://rpp.pe/economia/economia/economia-peruana-crecio-25-en-ultimo-trimestre-noticia-1234567.html",
+    "published": "Mon, 16 Oct 2023 10:30:00 GMT"
+  },
+  {
+    "title": "Selección peruana se prepara para las eliminatorias",
+    "description": "La blanquirroja inició sus entrenamientos de cara a los próximos partidos clasificatorios al Mundial. El técnico confirmó la lista de convocados.",
+    "link": "https://rpp.pe/deportes/futbol/seleccion-peruana-prepara-eliminatorias-noticia-1234568.html",
+    "published": "Mon, 16 Oct 2023 09:15:00 GMT"
+  },
+  {
+    "title": "Gobierno anuncia nuevas medidas para impulsar el turismo",
+    "description": "El Ministerio de Comercio Exterior y Turismo presentó un paquete de medidas destinadas a reactivar el sector turístico en zonas afectadas por la pandemia.",
+    "link": "https://rpp.pe/politica/gobierno/gobierno-medidas-turismo-noticia-1234569.html",
+    "published": "Mon, 16 Oct 2023 08:45:00 GMT"
+  },
+  {
+    "title": "Innovación tecnológica en universidades peruanas",
+    "description": "Principales universidades del país presentaron proyectos de inteligencia artificial y robótica desarrollados por estudiantes de ingeniería.",
+    "link": "https://rpp.pe/tecnologia/innovacion/universidades-innovacion-tecnologica-noticia-1234570.html",
+    "published": "Mon, 16 Oct 2023 07:30:00 GMT"
+  },
+  {
+    "title": "Dólar cierra la jornada con ligera baja en Perú",
+    "description": "El tipo de cambio cerró en S/ 3.75, registrando una disminución de 0.2% respecto al cierre anterior, según el Banco Central.",
+    "link": "https://rpp.pe/economia/finanzas/dolar-cierra-jornada-baja-peru-noticia-1234571.html",
+    "published": "Mon, 16 Oct 2023 18:00:00 GMT"
+  },
+  {
+    "title": "Universitario campeón del torneo clausura",
+    "description": "El equipo crema se coronó campeón tras vencer 2-1 a Alianza Lima en el partido final del torneo clausura de la Liga 1.",
+    "link": "https://rpp.pe/deportes/futbol/universitario-campeon-clausura-noticia-1234572.html",
+    "published": "Sun, 15 Oct 2023 20:30:00 GMT"
+  },
+  {
+    "title": "Exportaciones peruanas crecen 15% en septiembre",
+    "description": "Las exportaciones no tradicionales impulsaron el crecimiento, destacando los sectores agropecuario y pesquero.",
+    "link": "https://rpp.pe/economia/comercio-exterior/exportaciones-crecen-septiembre-noticia-1234573.html",
+    "published": "Sun, 15 Oct 2023 16:00:00 GMT"
+  },
+  {
+    "title": "Ministro de Educación anuncia reforma curricular",
+    "description": "Se implementará un nuevo currículo con énfasis en competencias digitales y pensamiento crítico para todos los niveles educativos.",
+    "link": "https://rpp.pe/politica/educacion/reforma-curricular-anuncio-noticia-1234574.html",
+    "published": "Sun, 15 Oct 2023 14:30:00 GMT"
+  },
+  {
+    "title": "Startup peruana gana premio internacional de innovación",
+    "description": "Una empresa tecnológica de Lima fue galardonada en el concurso TechCrunch Disrupt por su plataforma de educación en línea.",
+    "link": "https://rpp.pe/tecnologia/startups/startup-peruana-premio-internacional-noticia-1234575.html",
+    "published": "Sun, 15 Oct 2023 12:00:00 GMT"
+  },
+  {
+    "title": "Inflación anual se mantiene dentro del rango meta",
+    "description": "La inflación acumulada en los últimos 12 meses fue de 2.8%, manteniéndose dentro del rango establecido por el BCR.",
+    "link": "https://rpp.pe/economia/indicadores/inflacion-anual-rango-meta-noticia-1234576.html",
+    "published": "Sat, 14 Oct 2023 11:00:00 GMT"
+  },
+  {
+    "title": "Paolo Guerrero anuncia su retiro de la selección",
+    "description": "El histórico delantero confirmó que dejará la blanquirroja después de más de 15 años defendiendo los colores nacionales.",
+    "link": "https://rpp.pe/deportes/futbol/paolo-guerrero-retiro-seleccion-noticia-1234577.html",
+    "published": "Sat, 14 Oct 2023 09:30:00 GMT"
+  },
+  {
+    "title": "Congreso debate ley de presupuesto 2024",
+    "description": "Legisladores analizan la propuesta del Ejecutivo que contempla un incremento del 8% respecto al presupuesto del año anterior.",
+    "link": "https://rpp.pe/politica/congreso/debate-presupuesto-2024-noticia-1234578.html",
+    "published": "Fri, 13 Oct 2023 17:00:00 GMT"
+  },
+  {
+    "title": "Lanzan programa de capacitación en inteligencia artificial",
+    "description": "El Ministerio de Trabajo en alianza con empresas tech ofrecerá cursos gratuitos de IA para profesionales peruanos.",
+    "link": "https://rpp.pe/tecnologia/capacitacion/programa-inteligencia-artificial-noticia-1234579.html",
+    "published": "Fri, 13 Oct 2023 15:30:00 GMT"
+  },
+  {
+    "title": "Inversión extranjera directa aumenta 20% en el primer semestre",
+    "description": "Los sectores minería y energía concentraron el mayor flujo de inversiones extranjeras en el país.",
+    "link": "https://rpp.pe/economia/inversion/inversion-extranjera-aumenta-noticia-1234580.html",
+    "published": "Fri, 13 Oct 2023 13:00:00 GMT"
+  },
+  {
+    "title": "Maratón Lima 42K reúne a más de 10,000 corredores",
+    "description": "El evento deportivo más importante de la capital contó con participantes de 30 países diferentes.",
+    "link": "https://rpp.pe/deportes/otros-deportes/maraton-lima-42k-noticia-1234581.html",
+    "published": "Fri, 13 Oct 2023 11:00:00 GMT"
+  },
+  {
+    "title": "Presidente presenta plan de infraestructura vial",
+    "description": "Se anunciaron inversiones por S/ 15,000 millones para mejorar carreteras en 12 regiones del país.",
+    "link": "https://rpp.pe/politica/gobierno/plan-infraestructura-vial-noticia-1234582.html",
+    "published": "Thu, 12 Oct 2023 16:00:00 GMT"
+  },
+  {
+    "title": "Nueva plataforma digital para trámites municipales",
+    "description": "La Municipalidad de Lima lanzó un sistema integrado que permite realizar más de 50 trámites de forma virtual.",
+    "link": "https://rpp.pe/tecnologia/apps/plataforma-digital-tramites-noticia-1234583.html",
+    "published": "Thu, 12 Oct 2023 14:30:00 GMT"
+  },
+  {
+    "title": "Banco Central reduce tasa de interés de referencia",
+    "description": "El BCR decidió recortar la tasa en 25 puntos básicos ante la desaceleración de la inflación.",
+    "link": "https://rpp.pe/economia/finanzas/bcr-reduce-tasa-interes-noticia-1234584.html",
+    "published": "Thu, 12 Oct 2023 12:00:00 GMT"
+  },
+  {
+    "title": "Cienciano clasifica a la Copa Sudamericana",
+    "description": "El equipo cusqueño aseguró su participación en el torneo internacional tras vencer a Sport Huancayo.",
+    "link": "https://rpp.pe/deportes/futbol/cienciano-clasifica-sudamericana-noticia-1234585.html",
+    "published": "Thu, 12 Oct 2023 10:00:00 GMT"
+  },
+  {
+    "title": "Ministerio de Salud amplía horarios de vacunación",
+    "description": "Los centros de salud atenderán hasta las 8 PM para facilitar el acceso a las vacunas contra la gripe estacional.",
+    "link": "https://rpp.pe/politica/salud/ampliacion-horarios-vacunacion-noticia-1234586.html",
+    "published": "Wed, 11 Oct 2023 15:00:00 GMT"
+  }
+]
