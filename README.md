@@ -42,6 +42,7 @@ news-query_RPP-lab/
 - Python 3.9 or higher
 - pip package manager
 - Git
+- Internet connection (for RSS feeds and model downloads)
 
 ### Installation
 
@@ -62,24 +63,24 @@ news-query_RPP-lab/
    pip install -r requirements.txt
    ```
 
-### Running the Notebook
-
-1. **Start Jupyter Notebook**
+4. **Verify installation**
    ```bash
-   jupyter notebook
+   python test_modules.py
    ```
 
-2. **Open the notebook**
-   - Navigate to `notebooks/news_retrieval_system.ipynb`
-   - Run all cells sequentially
+For detailed setup instructions, see [SETUP.md](SETUP.md).
 
-3. **The notebook will:**
-   - Load 50 latest news items from RPP RSS feed
-   - Tokenize and analyze articles
-   - Generate embeddings using `sentence-transformers/all-MiniLM-L6-v2`
-   - Store in ChromaDB
-   - Demonstrate semantic search queries
-   - Show LangChain orchestration
+### Quick Start
+
+**Run the example script:**
+```bash
+python example_usage.py
+```
+
+**Run the Jupyter notebook:**
+```bash
+jupyter notebook notebooks/news_retrieval_system.ipynb
+```
 
 ## 📚 Features
 
