@@ -1,7 +1,7 @@
 # Project Summary - News Retrieval and Embedding System
 
 ## Overview
-This project implements a comprehensive news retrieval system that ingests news from RPP Perú RSS feed, generates embeddings using SentenceTransformers, and provides semantic search capabilities using ChromaDB orchestrated with LangChain.
+This project implements a comprehensive news retrieval system that ingests news from the RPP Perú RSS feed, generates embeddings using SentenceTransformers, and provides semantic search capabilities using ChromaDB orchestrated with LangChain.
 
 ## Grading Criteria Fulfillment
 
@@ -129,7 +129,7 @@ This project implements a comprehensive news retrieval system that ingests news 
 ## Implementation Highlights
 
 ### Step 0: RSS Feed Loading
-- Fetches 50 latest items from RPP RSS
+- Fetches the latest 50 items from RPP RSS
 - Extracts all required fields
 - Sample data available for offline testing
 
