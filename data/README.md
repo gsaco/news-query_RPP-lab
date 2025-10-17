@@ -12,6 +12,8 @@ Sample news articles in the format returned by the RPP RSS feed. Contains 20 new
 - Technology
 - Education
 
+**Note:** The sample data uses dates from October 2023. These are for testing purposes only and do not reflect current news. In production, use the live RSS feed which provides current, real-time news.
+
 ## Usage
 
 When internet access is unavailable, you can use the sample data instead of fetching from the live RSS feed:
