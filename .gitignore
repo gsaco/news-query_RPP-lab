@@ -29,7 +29,9 @@ env/
 .ipynb_checkpoints
 
 # Data files (optional - can be regenerated)
+# Keep sample_rpp_news.json but ignore other generated data
 data/*.json
+!data/sample_rpp_news.json
 data/*.csv
 
 # ChromaDB
