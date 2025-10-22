@@ -74,7 +74,7 @@ news-query_RPP-lab/
 
 **Note**: All file paths in the notebook are relative and will work in both local and Colab environments.
 
-## � Implementation Steps
+## Implementation Steps
 
 ### Step 0: Load Data
 - Uses `feedparser` to extract 50 latest news items from RPP RSS feed
@@ -109,7 +109,7 @@ news-query_RPP-lab/
 - Pipeline: Loads RSS → Tokenizes → Embeds → Stores → Retrieves
 - Each step is modular (functions or LangChain chains)
 
-## � Deliverables
+## Deliverables
 
 ✅ **Jupyter Notebook**: Complete implementation in `notebooks/news_retrieval_system.ipynb`
 
@@ -137,7 +137,7 @@ news-query_RPP-lab/
 - **pandas**, **matplotlib**, **seaborn**, **scikit-learn** - Data science
 - **jupyter** - Interactive notebooks
 
-## � Usage Example
+## Usage Example
 
 ```python
 # Load RSS feed
@@ -159,16 +159,6 @@ results_df = pipeline.run_pipeline(
 # Display results
 print(results_df)
 ```
-
-## 📈 Expected Output
-
-The system displays the 5 most recent retrieved items in a formatted table:
-
-| title | description | link | date_published |
-|-------|-------------|------|----------------|
-| ... | ... | ... | ... |
-
-Results are also saved as CSV files in the `outputs/` directory.
 
 ## 📄 License
 
