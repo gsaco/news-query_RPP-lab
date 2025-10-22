@@ -69,8 +69,8 @@ class NewsRetrievalPipeline:
         self.vectorstore = Chroma.from_documents(
             documents=documents,
             embedding=self.embeddings,
-            persist_directory=self.persist_directory,
-            collection_name="rpp_news_langchain"
+            collection_name="rpp_news_lc",
+            persist_directory=self.persist_directory
         )
     
     def query(self, query_text: str, k: int = 10) -> pd.DataFrame:

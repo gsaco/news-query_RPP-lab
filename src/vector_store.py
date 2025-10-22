@@ -3,7 +3,6 @@ ChromaDB Vector Store Module
 Handles storage and retrieval of embeddings
 """
 import chromadb
-from chromadb.config import Settings
 from typing import List, Dict, Optional
 import uuid
 
@@ -22,11 +21,8 @@ class ChromaDBStore:
         self.collection_name = collection_name
         self.persist_directory = persist_directory
         
-        # Initialize ChromaDB client
-        self.client = chromadb.Client(Settings(
-            persist_directory=persist_directory,
-            anonymized_telemetry=False
-        ))
+        # Initialize ChromaDB persistent client
+        self.client = chromadb.PersistentClient(path=persist_directory)
         
         # Get or create collection
         self.collection = self.client.get_or_create_collection(
