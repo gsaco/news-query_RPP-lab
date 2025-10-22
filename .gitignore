@@ -33,8 +33,6 @@ data/*.json
 data/*.csv
 
 # ChromaDB
-chroma_db/
-*.sqlite3
 
 # IDE
 .vscode/
