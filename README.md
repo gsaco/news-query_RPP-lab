@@ -109,22 +109,6 @@ news-query_RPP-lab/
 - Pipeline: Loads RSS → Tokenizes → Embeds → Stores → Retrieves
 - Each step is modular (functions or LangChain chains)
 
-## Deliverables
-
-✅ **Jupyter Notebook**: Complete implementation in `notebooks/news_retrieval_system.ipynb`
-
-✅ **requirements.txt**: All required packages with versions
-
-✅ **README.md**: This file with setup instructions
-
-✅ **Organized Repository Structure**: `/src`, `/data`, `/notebooks`, `/outputs`
-
-✅ **Relative File Paths**: No absolute directories, works in any environment
-
-✅ **End-to-End Execution**: Runs without manual intervention
-
-✅ **Google Colab Compatible**: Can be run directly in Colab
-
 ## 🛠️ Technical Stack
 
 - **Python** 3.10+
@@ -136,33 +120,6 @@ news-query_RPP-lab/
 - **datasets**, **transformers**, **torch** - ML infrastructure
 - **pandas**, **matplotlib**, **seaborn**, **scikit-learn** - Data science
 - **jupyter** - Interactive notebooks
-
-## Usage Example
-
-```python
-# Load RSS feed
-news_items = load_rss_feed(url="https://rpp.pe/rss", max_items=50)
-
-# Create pipeline
-pipeline = NewsRetrievalPipeline(
-    model_name="sentence-transformers/all-MiniLM-L6-v2",
-    persist_directory="./chroma_db"
-)
-
-# Run complete pipeline
-results_df = pipeline.run_pipeline(
-    news_items=news_items,
-    query_text="Últimas noticias de economía",
-    k=10
-)
-
-# Display results
-print(results_df)
-```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
