@@ -28,10 +28,6 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files (optional - can be regenerated)
-data/*.json
-data/*.csv
-
 # ChromaDB
 
 # IDE
@@ -43,8 +39,3 @@ data/*.csv
 # OS
 .DS_Store
 Thumbs.db
-
-# Outputs (can be regenerated)
-outputs/*.png
-outputs/*.csv
-outputs/*.html
